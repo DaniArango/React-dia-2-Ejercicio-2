@@ -22,11 +22,11 @@ button {
     border-radius: 8px;
     box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
     color: #000000;
-    display: flex;
-    font-family: Phantomsans, sans-serif;
+    font-family: 'Berkshire Swash', cursive;
     font-size: 30px;
     justify-content: center;
     min-width: 140px;
+    height: 60px;
     padding: 3px;
     cursor: pointer;
     transition: all .3s;
